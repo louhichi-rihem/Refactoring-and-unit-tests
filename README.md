@@ -7,3 +7,5 @@ backend framework using Flask and then validate its functionality seamlessly usi
 
 ## Tech: 
 Sqlalchemy marshmallow, Sql, Swagger, Docker, Flask, Postman, MySQL
+
+![Capture](https://github.com/louhichi-rihem/Refactoring-and-unit-tests/assets/129398762/e0893f0f-2e6e-419d-8882-9b80de42d87d)
